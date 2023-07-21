@@ -1,0 +1,76 @@
+*
+{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.image1 img
+{
+    height: 150px;
+    width: 200px;
+    margin: 0 20px 0 20px;
+}
+.invitation h1
+{
+    margin: 0 20px 0 20px;
+    margin-top: 10px;
+}
+.image2 img
+{
+    height: 20px;
+    width: 20px;
+    margin-left: 152px;
+    display: flex;
+    margin-top: -64px;
+}
+.invitation p
+{
+    margin: 10px;
+    padding: 0 16px;
+}
+.formfill
+{
+    margin: 50px;
+    font-size: larger;
+}
+.box
+{
+    border: 1px solid black;
+    height: 40px;
+    width: 250px;
+    margin: 20px;
+    padding: 6px;
+}
+.boxes
+{
+    margin-top: 80px;
+    margin-left: 50px;
+    font-size: larger;
+}
+.box a
+{
+    text-decoration: none;
+    color: black;
+}
+.text a
+{
+    font-size: smaller;
+    margin: 20px;
+    color: black;
+}
+.submit
+{
+    margin: 50px;
+    text-align: center;
+}
+.image3 img
+{
+    height: 400px;
+    width: 400px;
+    margin-left: 441px;
+    margin-top: -383px;
+}
+.image3
+{
+    display: flex;
+}

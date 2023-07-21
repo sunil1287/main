@@ -1,0 +1,216 @@
+*
+{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.services
+{
+    text-align: center;
+    margin: 20px;
+}
+.boxes
+{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 10px;
+    padding: 20px;
+}
+.box1
+{
+    height: 230px;
+    width: 350px;
+    border: 2px solid rgb(217, 212, 212);
+    border-radius: 20px;
+    margin: 20px;
+}
+.c1
+{
+    height: 90px;
+    width: 90px;
+    border: 2px solid rgb(217, 212, 212);
+    border-radius: 50px;
+    margin-left: 120px;
+    margin-top: -40px;
+    background-color: white;
+    text-align: center;
+}
+.c1 img
+{
+    height: 90px;
+    width: 70px;
+}
+.box1 h1
+{
+    text-align: center;
+}
+.box1 p
+{
+    margin: 15px;
+    color: grey;
+    font-style: normal;
+}
+.c2
+{
+    height: 90px;
+    width: 90px;
+    border: 2px solid rgb(217, 212, 212);
+    border-radius: 50px;
+    margin-left: 120px;
+    margin-top: -40px;
+    text-align: center;
+    background-color: white;
+}
+.c2 img
+{
+    height: 70px;
+    width: 60px;
+}
+.c3
+{
+    height: 90px;
+    width: 90px;
+    border: 2px solid rgb(217, 212, 212);
+    border-radius: 50px;
+    margin-left: 120px;
+    margin-top: -40px;
+    text-align: center; 
+    background-color: white;
+}
+.c3 img
+{
+    height: 50px;
+    width: 70px;
+    margin-top: 15px;
+}
+.c4
+{
+    height: 90px;
+    width: 90px;
+    border: 2px solid rgb(217, 212, 212);
+    border-radius: 50px;
+    margin-left: 120px;
+    margin-top: -40px;
+    text-align: center; 
+    background-color: white;
+}
+.c4 img
+{
+    height: 50px;
+    width: 50px;
+    margin-top: 15px; 
+}
+.c5
+{
+    height: 90px;
+    width: 90px;
+    border: 2px solid rgb(217, 212, 212);
+    border-radius: 50px;
+    margin-left: 120px;
+    margin-top: -40px;
+    text-align: center; 
+    background-color: white;
+}
+.c5 img
+{
+    height: 50px;
+    width: 50px;
+    margin-top: 15px;  
+}
+.c6
+{
+    height: 90px;
+    width: 90px;
+    border: 2px solid rgb(217, 212, 212);
+    border-radius: 50px;
+    margin-left: 120px;
+    margin-top: -40px;
+    text-align: center; 
+    background-color: white;
+}
+.c6 img
+{
+    height: 50px;
+    width: 50px;
+    margin-top: 15px; 
+}
+.background
+{
+    background-color: rgb(87, 87, 182);
+    text-align: center;
+}
+.foot h1
+{
+  text-align: center;
+  margin-top: 25px;
+  font-style: normal;
+}
+.foot p
+{
+    text-align: center;
+    margin-top: 25px;
+}
+.discuss button
+{
+    background-color: rgb(71, 71, 180);
+    color: white;
+    text-align: center;
+    justify-content: center;
+    height: 50px;
+    width: 300px;
+    font-size: larger;
+    border-radius: 30px;
+    border: 2px solid rgb(71, 71, 180);
+}
+.discuss
+{
+    text-align: center;
+    margin-top: 25px;
+}
+.background2
+{
+    height: 350px;
+    width: 1519px;
+    background-color: blue;
+    margin-top: 25px;
+}
+.background2 img
+{
+    margin-left: 30px;
+}
+.mainbox
+{
+    padding: 20px;
+    display: flex;
+}
+.jst a
+{
+   max-width: 50px;
+    color: white;
+    font-size: 50px;
+    margin: 10px;
+}
+.last h6
+{
+    color: white;
+    margin-top: 85px;
+    margin-left: -330px;
+    font-size: 15px;
+    font-weight: lighter;
+}
+.last2 h6
+{
+    color: white;
+    margin-top: 110px;
+    margin-left: -330px;
+    font-size: 15px; 
+    font-weight: lighter;
+}
+.footer a
+{
+    color: white;
+    margin-left: 800px;
+    font-size: large;
+    text-decoration: none;
+}

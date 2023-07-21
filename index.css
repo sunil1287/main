@@ -1,0 +1,103 @@
+* 
+{
+padding: 20px;
+margin: 20px;
+}
+h1{
+    color: blue !important;
+    background-color: aqua;
+    font: bold;
+    text-align: center;
+    text-transform: uppercase;
+    text-shadow: 10px;
+    margin:80px;
+    padding: 60px;
+    height: 100px;
+    width: 50;
+    border-radius: 20px 0 20px 0;
+    border: 20px  solid green;
+    box-shadow: 25px 25px;
+}
+h2{
+    color: rgb(11, 21, 11) !important;
+    background-color: antiquewhite;
+    font: bolder;
+    text-align: center;
+    text-transform: uppercase;
+    margin:80px;
+    padding: 60px;
+    height: 100px;
+    width: 50;
+    border-radius: 20px 0 20px 0;
+    border: 20px  solid rgb(129, 246, 129);
+    box-shadow: 25px 25px;
+}
+h3{
+    color: rgb(245, 245, 249) !important;
+    background-color: rgb(185, 119, 33);
+    font: bold;
+    text-align: center;
+    text-transform: uppercase;
+    margin:80px;
+    padding: 60px;
+    height: 100px;
+    width: 50;
+    border-radius: 20px 0 20px 0;
+    border: 20px  solid rgb(0, 113, 128);
+    box-shadow: 25px 25px;
+}
+h4{
+    color: rgb(38, 0, 128) !important;
+    background-color: rgb(200, 121, 43);
+    font: bolder;
+    text-align: center;
+    text-transform: uppercase; 
+    margin:80px;
+    padding: 60px;
+    height: 100px;
+    width: 50;
+    border-radius: 20px 0 20px 0;
+    border: 20px  solid rgb(215, 228, 228);
+    box-shadow: 25px 25px;
+}
+h5{
+    color: rgb(5, 35, 5) !important;
+    background-color: rgb(169, 161, 150);
+    font: bold;
+    text-align: center;
+    text-transform: uppercase;
+    margin:80px;
+    padding: 60px;
+    height: 100px;
+    width: 50;
+    border-radius: 20px 0 20px 0;
+    border: 20px  solid rgb(128, 0, 90);
+    box-shadow: 25px 25px;
+}
+h6{
+    color: rgb(5, 239, 5) !important;
+    background-color: rgb(92, 90, 88);
+    font: bolder;
+    text-align: center;
+    text-transform: uppercase;
+    margin:80px;
+    padding: 60px;
+    height: 100px;
+    width: 50;
+    border-radius: 20px 0 20px 0;
+    border: 20px  solid rgb(0, 16, 0);
+    box-shadow: 25px 25px;
+}
+p{
+    color: rgb(10, 10, 12) !important;
+    background-color: rgb(185, 119, 33);
+    font: bold;
+    text-align: justify;
+    text-transform: uppercase; 
+}
+img{
+    height: 350px;
+    width: 350px;
+    text-align: center;
+    background-color: blueviolet;
+}

@@ -1,0 +1,115 @@
+@media screen and (min-width:320px)and(max-width:570px)
+{
+    header
+    {
+        flex-direction: none;
+        padding: 0;
+        margin: 0;
+        text-align: center;
+    }
+    .header ul
+    {
+        flex-direction: column;
+        padding: 0;
+        margin: 0;
+        text-align: center;
+    }
+    .fw900 header ul li
+    {
+        flex-direction: column;
+        padding: 0;
+        margin: 0;
+        text-align: center;
+    }
+    .mainbox
+    {
+        flex-direction: column;
+        padding: 0;
+        margin: 0;
+        text-align: center;
+    }
+    .content
+    {
+        flex-direction: column;
+        padding: 0;
+        margin: 0;
+        text-align: center;
+    }
+    .content1
+    {
+        flex-direction: none;
+        padding: 0;
+        margin: 0;
+        text-align: center;
+    }
+    .content2
+    {
+        flex-direction: column;
+        padding: 0;
+        margin: 0;
+        text-align: center;
+    }
+    .content3
+    {
+        flex-direction: column;
+        padding: 0;
+        margin: 0;
+        text-align: center;
+    }
+    .content4
+    {
+        flex-direction: column;
+        padding: 0;
+        margin: 0;
+        text-align: center;
+    }
+    .content5
+    {
+        flex-direction: column;
+        padding: 0;
+        text-align: center;
+        margin: 0;
+    }
+    .bottom
+    {
+        flex-direction: column;
+        padding: 0;
+        margin: 0;
+        text-align: center;
+    }
+    .box12
+    {
+        flex-direction: column;
+        padding: 0;
+        margin: 0;
+        text-align: center;
+    }
+    .subs
+    {
+        flex-direction: column;
+        padding: 0;
+        margin: 0;
+        text-align: center;
+    }
+    .logo
+    {
+        flex-direction: column;
+        padding: 0;
+        margin: 0;
+        text-align: center;
+    }
+    .foot a 
+    {
+        flex-direction: column;
+        padding: 0;
+        margin: 0;
+        text-align: center;
+    }
+    .foot
+    {
+        flex-direction: column;
+        padding: 0;
+        margin: 0;
+        text-align: center;
+    }
+}

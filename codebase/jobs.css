@@ -1,0 +1,171 @@
+*
+{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.top
+{
+    margin: 10px;
+    display: flex;
+}
+.top img
+{
+    height: 50px;
+    width: 250px;
+    margin-left: 300px;
+}
+.top button
+{
+    background-color: blue;
+    height: 30px;
+    width: 180px;
+    color: white;
+    font-size: large;
+    border-radius: 3px;
+    border: 2px solid blue;
+    margin-left: 370px;
+    margin-top: 18px;
+}
+.icon
+{
+    margin-left: 20px;
+    margin-top: 20px;
+}
+.icon1
+{
+    margin-left: 10px;
+    margin-top: 20px;
+}
+.back1
+{
+    height: 400px;
+    width: 1519px;
+    background-color: blue;
+}
+.head1 h1
+{
+    text-align: center;
+    font-weight: 300;
+    font-size: 72px;
+    color: white;
+}
+.head1 p
+{
+    text-align: center;
+    color: white;
+    font-size: 20px;
+    margin-top: 10px;
+}
+.button button
+{
+    height: 60px;
+    width: 200px;
+    font-size: 20px;
+    background-color: white;
+    border: 2px solid white;
+    border-radius: 5px;
+    margin-top: 50px;
+}
+.button
+{
+    text-align: center;
+}
+.head2 h1
+{
+    text-align: center;
+    font-size: 50px;
+    margin-top: 50px;
+}
+.option
+{
+    display: flex;
+    margin-left: 250px;
+}
+.departments
+{
+    display: inline-block;
+    height: 32px;
+    line-height: 32px;
+    border: 1px solid #eee;
+    padding: 6px;
+    color: #666666;
+    font-size: 16px;
+    margin-right: 20px;
+    margin-left: 20px;
+}
+.option2
+{
+    display: flex;
+    margin-left: 300px;
+}
+.location
+{
+    display: inline-block;
+    height: 32px;
+    line-height: 32px;
+    border: 1px solid #eee;
+    padding: 6px;
+    color: #666666;
+    font-size: 16px;
+    margin-right: 20px;
+    margin-left: 20px;
+}
+.fa 
+{
+    display: inline-block;
+    font: normal normal normal 14px/1 FontAwesome;
+    font-size: inherit;
+    text-rendering: auto;
+    -webkit-font-smoothing: antialiased;
+    display: flex;
+}
+.button.apply
+{
+    float: right;
+    font-size: 16px;
+    margin-top: 8px;
+    height: 50px;
+    width: 100px;
+}
+.box1
+{
+    height: 150px;
+    width: 1500px;
+    margin: 10px;
+    padding: 20px;
+}
+.box1 h1
+{
+    color: black;
+    display: flex;
+    font-weight: 50px;
+}
+.box1 button
+{
+    margin-left: 1300px;
+    height: 40px;
+    width: 90px;
+    border: 2px solid gray;
+    border-radius: 5px;
+    background-color: gray;
+    color: white;
+}
+.a1
+{
+    display: flex;
+}
+.a1 p
+{
+    margin-top: 15px;
+    margin-left: 10px;
+    color: gray;
+    font-size: larger;
+}
+.a1 h6
+{
+    margin-top: 15px;
+    font-size: larger;
+    margin-left: 30px;
+    color: gray;
+}

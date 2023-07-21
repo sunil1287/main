@@ -1,0 +1,74 @@
+*
+{
+    margin: 0px;
+    padding: 0px;
+}
+.box1
+{
+    color: rgb(1, 16, 1);
+    background-color: greenyellow;
+    border-radius: 20px;
+    width: 500px;
+    height: 300px;
+    border: 10px solid grey;
+    border-radius: 15px 0px 15px 0px;
+    margin: 20px;
+    padding: 20px;
+    box-shadow: 15px 0px 15px 0px;
+    text-align: center;
+}
+.background
+{
+    background-image: url(https://img.freepik.com/free-vector/simple-gray-triangular-background_53876-95732.jpg);
+   background-repeat: no-repeat;
+    background-size: 200%;
+    width: 100%;
+    height: 100%;
+}
+.box2
+{
+    color: rgb(249, 62, 5);
+    background-color: rgb(181, 201, 151);
+    border-radius: 20px;
+    width: 500px;
+    height: 300px;
+    border: 10px solid rgb(215, 68, 68);
+    border-radius: 15px 0px 15px 0px;
+    margin: 20px;
+    padding: 20px;
+    box-shadow: 15px 0px 15px 0px;
+    text-align: center;
+}
+.box3
+{
+    color: rgb(18, 13, 12);
+    background-color: rgb(181, 201, 151);
+    border-radius: 20px;
+    width: 500px;
+    height: 300px;
+    border: 10px solid rgb(242, 182, 182);
+    border-radius: 15px 0px 15px 0px;
+    margin: 20px;
+    padding: 20px;
+    box-shadow: 15px 0px 15px 0px;
+    text-align: center;
+}
+.formfill
+{
+    color: rgb(18, 13, 12);
+    background-color: rgb(174, 177, 169);
+    border-radius: 20px;
+    width: 500px;
+    height: 300px;
+    border: 10px solid rgb(184, 92, 92);
+    border-radius: 15px 0px 15px 0px;
+    margin: 20px;
+    padding: 20px;
+    box-shadow: 15px 0px 15px 0px;
+    text-align: center;
+}
+.box4
+{
+   margin: 15px;
+   padding: 15px;
+}
